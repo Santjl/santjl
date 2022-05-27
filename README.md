@@ -19,6 +19,7 @@
   <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/"><img align="center" alt="Sant-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>
   <a href="https://angular.io/"><img align="center" alt="Sant-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></a>
    <a href="https://docs.microsoft.com/pt-br/aspnet/core/?view=aspnetcore-6.0"><img align="center" alt="Sant-NetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"></a>
+    <a href="https://unity.com/pt"><img align="center" alt="Sant-NetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg"></a>
 </div>
 
  <br/>
