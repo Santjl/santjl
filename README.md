@@ -2,7 +2,7 @@
   <br/>
   - 🔭 I’m currently working on <strong>Viceri-Seidor</strong>.
   <br/>
-  - 🌱 I’m currently learning <strong>React</strong>.
+  - 🌱 I’m currently learning <strong>React</strong>, <strong>Angular</strong> and <strong>.NET Core</strong>.
   <br/>
   <br/>
 <div align="center">
