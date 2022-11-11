@@ -1,8 +1,8 @@
 ### Olá,  Sou o Jorge Sant' Anna! Seja bem vindo!👋
   <br/>
-  - 🔭 I’m currently working on <strong>Viceri-Seidor</strong>.
+  - 🔭 I’m currently working on <strong>Juntos Somos Mais</strong>.
   <br/>
-  - 🌱 I’m currently learning <strong>React</strong>, <strong>Angular</strong> and <strong>.NET Core</strong>.
+  - 🌱 I’m currently learning <strong>.NET</strong>.
   <br/>
   <br/>
 <div align="center">
