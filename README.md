@@ -1,4 +1,4 @@
-### Hi,  I'm Jorge Sant' Anna! Welcome!👋
+### Hi,  I'm Jorge Sant'Anna! Welcome!👋
   <br/>
   - 🔭 I’m currently working on <strong>Juntos Somos Mais</strong>.
   <br/>
