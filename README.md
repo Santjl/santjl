@@ -9,14 +9,14 @@
     <img height="160em" src="https://github-readme-stats-three-puce-ricardo.vercel.app/api?username=santjl&theme=dark&count_private=true"/>
 </div>
  <div style="display: inline_block"><br>
+  <a href="https://docs.microsoft.com/pt-br/aspnet/core/?view=aspnetcore-6.0"><img align="center" alt="Sant-NetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"></a>
+  <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/"><img align="center" alt="Sant-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img align="center" alt="Sant-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   <a href="https://www.typescriptlang.org/docs/"><img align="center" alt="Sant-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img align="center" alt="Sant-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img align="center" alt="Sant-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <a href="https://flutter.dev/"><img align="center" alt="Sant-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></a>
-  <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/"><img align="center" alt="Sant-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>
   <a href="https://angular.io/"><img align="center" alt="Sant-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></a>
-   <a href="https://docs.microsoft.com/pt-br/aspnet/core/?view=aspnetcore-6.0"><img align="center" alt="Sant-NetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"></a>
     <a href="https://unity.com/pt"><img align="center" alt="Sant-NetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg"></a>
 </div>
 
