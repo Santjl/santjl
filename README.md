@@ -5,8 +5,8 @@
   <br/>
 <div align="center">
   <a href="https://github.com/santjl">
-    <td><img width="400px" align="left" src="https://github-readme-stats-three-puce-ricardo.vercel.app/api/top-langs/?username=santjl&hide=html&layout=compact&theme=dark&count_private=true" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats-three-puce-ricardo.vercel.app/api?username=santjl&theme=dark&count_private=true" /></td>
+    <img width="400px" align="left" src="https://github-readme-stats-three-puce-ricardo.vercel.app/api/top-langs/?username=santjl&hide=html&layout=compact&theme=dark&count_private=true" />
+    <img width="495px" align="left" src="https://github-readme-stats-three-puce-ricardo.vercel.app/api?username=santjl&theme=dark&count_private=true" />
 </div>
  <div style="display: inline_block"><br>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img align="center" alt="Sant-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
