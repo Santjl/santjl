@@ -1,9 +1,13 @@
 ### Hi,  I'm Jorge Sant'Anna!👋
   <br/>
   - 🌱 I’m a Backend Developer
+  <br/>
   - 🧑‍💻 C# is my main language
+    <br/>
   - 🔭 I’m currently working as Mid Software Engineer at Fundação Cesgranrio
+    <br/>
   - 💬 Ask me about Backend Development
+    <br/>
   <br/>
   <br/>
 
