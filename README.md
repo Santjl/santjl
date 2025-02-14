@@ -4,7 +4,7 @@
   <br/>
   - 🧑‍💻 .NET developer
   <br/>
-  - 🤔  I'm currently leraning Go for personal interesting
+  - 🤔  I'm currently learning Go for personal interesting
     <br/>
   - 🔭 I’m currently working as Mid Software Engineer at Fundação Cesgranrio
     <br/>
